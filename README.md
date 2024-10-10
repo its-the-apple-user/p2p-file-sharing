@@ -1,2 +1,2 @@
 # p2p-file-sharing
-p2p-file-sharing system which is torrent like
+TORRENT LIKE P2P FILE SHARING SYSTEM
